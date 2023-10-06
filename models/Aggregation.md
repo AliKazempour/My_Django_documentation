@@ -1,4 +1,3 @@
-Certainly! Here's the information about aggregation methods in Django in README format:
 
 # Aggregation Methods in Django
 
