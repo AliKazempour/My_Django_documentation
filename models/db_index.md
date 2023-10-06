@@ -1,4 +1,3 @@
-Certainly! Here's the information about `db_index` in a README format:
 
 # Database Indexing in Django (Using `db_index`)
 
