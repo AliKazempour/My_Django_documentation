@@ -89,5 +89,3 @@ Remember to evaluate your specific use case and choose the most suitable approac
 ## Contributing
 
 Contributions to this documentation are welcome. If you have any suggestions, improvements, or corrections, please open an issue or submit a pull request.
-
-```
